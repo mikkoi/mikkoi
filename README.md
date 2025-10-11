@@ -6,10 +6,6 @@
 
 </div>
 
-## My Holopin Board
-
-[![@mikkoi's Holopin board](https://holopin.me/mikkoi)](https://holopin.io/@mikkoi)
-
 <!--
 ## 🚀 About Me
 
@@ -37,15 +33,21 @@ I'm a passionate software developer with a love for creating elegant solutions t
 
 </div>
 
-<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mikkoi&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mikkoi&theme=flat&row=2&column=5&margin-w=15)
 
 </div>
 
+<div align="center">
+## My Holopin Board
+
+[![@mikkoi's Holopin board](https://holopin.me/mikkoi)](https://holopin.io/@mikkoi)
+</div>
+
+<!--
 ## 📈 Contribution Graph
 
 <div align="center">
